@@ -2,6 +2,8 @@
 
 ***TURBOWRAP GUI is a set of React components that comprise the interface for creating and running TurboWrap projects***
 
+scratch-gui modified for use in [OpenBlock](https://openblock.cc) then modified for use in [TurboWrap](https://turbowrap.cc)
+
 ## Try it Online
 
 TurboWrap Online: [https://play.turbowrap.cc](https://play.turbowrap.cc)
