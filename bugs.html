@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>bugs</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background: #f0f0f0;
+    }
+
+    header {
+      background: #333;
+      color: white;
+      padding: 15px;
+    }
+
+    section {
+      margin-top: 30px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+    }
+
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      color: #555;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Report a bug!</h1>
+  </header>
+
+  <section id="contact">
+  <h2>Contact</h2>
+    <form onsubmit="event.preventDefault(); alert('We will review this. Issue sended!');">
+    <label>Name:
+      <input type="text">
+    </label>
+
+    <label>Email:
+      <input type="email">
+    </label>
+
+    <label>Message:
+      <textarea rows="4"></textarea>
+    </label>
+
+    <button>Send</button>
+  </form>
+</section>
+
+  <section id="hero">
+    <h2>Who made this mod?</h2>
+    <p>The creator of this mod is @TurboWrap.</p>
+  </section>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>Report this on Questions.html.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 TurboWrap</p>
+  </footer>
+</body>
+</html>
