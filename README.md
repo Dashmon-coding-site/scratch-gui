@@ -4,7 +4,7 @@
 
 ## Try it Online
 
-TurboWrap Online: [https://play.turbowrap.com](https://play.turbowrap.com)
+TurboWrap Online: [https://play.turbowrap.cc](https://play.turbowrap.cc)
 
 ![screenshot1](./docs/screenshot1.png)
 ![screenshot2](./docs/screenshot2.png)
