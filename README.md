@@ -4,6 +4,10 @@
 
 scratch-gui modified for use in [OpenBlock](https://openblock.cc) then modified for use in [TurboWrap](https://turbowrap.cc)
 
+## Logo
+
+![Logo](t.png)
+
 ## Try it Online
 
 TurboWrap Online: [https://play.turbowrap.cc](https://play.turbowrap.cc)
