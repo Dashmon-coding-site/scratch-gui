@@ -10,7 +10,7 @@ TurboWrap Online: [https://play.turbowrap.cc](https://play.turbowrap.cc)
 
 ## Bug Report
 
-You can submit the bug log in issues of this project. WITH THE BUGS.HTML PAGE
+You can submit the bug in issues of this project. WITH THE BUGS.HTML PAGE
 
 
 ## License
